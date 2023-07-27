@@ -5,7 +5,6 @@ import React from "react";
 const Intro = () => {
   return (
     <div id="intro">
-      <h1 class="title"> The Hexaa ReactJS Code Test</h1>
       <h1 class="subtitle"> Q2: Tic Tac Toe</h1>
       <div class="description">
         <p> Your task is to implement a Tic Tac toe with functionality. </p>
